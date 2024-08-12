@@ -59,7 +59,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08
 #EXTINF:-1 group-title="BS" tvg-id="Animax.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1200px-Animax.svg.png", BS Animax  
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
-#EXTINF:-1 group-title="BS" tvg-id="JSPORTS1.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/2880px-J_Sports_Logo.svg.png", J SPORTS 1
+#EXTINF:-1 group-title="BS" tvg-id="JSPORTS1.jp" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg", J SPORTS 1
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
 #EXTINF:-1 group-title="BS" tvg-id="JSPORTS2.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/2880px-J_Sports_Logo.svg.png", J SPORTS 2  
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
